@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adetoroe787" alt="adetoroe787" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/zestcoder" target="blank"><img src="https://img.shields.io/twitter/follow/zestcoder?logo=twitter&style=for-the-badge" alt="zestcoder" /></a> </p>
+<p align="left"> <a href="https://twitter.com/adetoro_dev" target="blank"><img src="https://img.shields.io/twitter/follow/adetoro_dev?logo=twitter&style=for-the-badge" alt="adetoro_dev" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/adetoroe787](https://github.com/adetoroe787)
 
