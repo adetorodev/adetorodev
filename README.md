@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ezekiel Adetoro</h1>
-<h3 align="center">A passionate Backend developer from Nigeria</h3>
+<h3 align="center">A passionate Frontend developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adetoroe787&label=Profile%20views&color=0e75b6&style=flat" alt="adetoroe787" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [blog.e-adetoro.dev](blog.e-adetoro.dev)
 
-- 💬 Ask me about **Python, Django, JavaScript, NodeJs**
+- 💬 Ask me about **React, Redux, GraphQL, NodeJS, ExpressJS**
 
 - 📫 How to reach me **adetoroe787@gmail.com**
 
