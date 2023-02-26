@@ -1,4 +1,4 @@
-### <div align="center">I'm Ezekiel Adetoro, a full-time full-stack  developer 👨‍💻 working remotely since 2017 🚀</div>  
+### <div align="center">I'm Ezekiel Adetoro, a full-time full-stack  developer 👨‍💻 working since 2017 🚀</div>  
   
 
 - 🔭 I’m currently working on [Online MarketPlace](https://github.com/adetoroe787/micip) 😇  
