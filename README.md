@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ezekiel Adetoro</h1>
 <h3 align="center">A passionate full-stack developer from the Earth</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adetoroe787" alt="adetoroe787" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adetorodev" alt="adetorodev" /></a> </p>
 
 - 🔭 I’m currently working on **Full Stack React TypeScript Dashboard**
 
@@ -9,15 +9,15 @@
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/adetorodev](https://github.com/adetorodev)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/adetorodev)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/ezekiel-adetoro/](https://www.linkedin.com/in/ezekiel-adetoro/)
+- 📝 I regularly write articles on [Medium](https://medium.com/@adetorodev)
 
 - 💬 Ask me about **React, TypeScript, NodeJs**
 
 - 📫 How to reach me **adetoroe787@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ezekiel-adetoro/](https://www.linkedin.com/in/ezekiel-adetoro/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/ezekiel-adetoro/)
 
 - ⚡ Fun fact **I use tab over spacebar**
 
@@ -39,13 +39,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ezekieladetoro"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ezekieladetoro" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adetoroe787&show_icons=true&locale=en&layout=compact" alt="adetoroe787" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adetorodev&show_icons=true&locale=en&layout=compact" alt="adetorodev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adetoroe787&show_icons=true&locale=en" alt="adetoroe787" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adetorodev&show_icons=true&locale=en" alt="adetorodev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adetoroe787&" alt="adetoroe787" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adetorodev&" alt="adetorodev" /></p>
 
-# Blog posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
