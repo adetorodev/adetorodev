@@ -23,6 +23,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing Performance in React Apps: Best Practices and Techniques](https://adetorodev.medium.com/optimizing-performance-in-react-apps-best-practices-and-techniques-4b05eb66dd19?source=rss-ee30520a0aeb------2)
+- [Effective uses of React.lazy&lpar;&rpar;](https://adetorodev.medium.com/effective-uses-of-react-lazy-7e6fa3bde040?source=rss-ee30520a0aeb------2)
+- [JavaScript Array Method Syntax](https://adetorodev.medium.com/javascript-array-method-syntax-963bc3b31d15?source=rss-ee30520a0aeb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
