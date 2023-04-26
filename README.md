@@ -23,6 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Benefits of Software Design for Frontend Developer](https://adetorodev.medium.com/benefits-of-software-design-for-frontend-developer-a6d100697289?source=rss-ee30520a0aeb------2)
 - [Optimizing Performance in React Apps: Best Practices and Techniques](https://adetorodev.medium.com/optimizing-performance-in-react-apps-best-practices-and-techniques-4b05eb66dd19?source=rss-ee30520a0aeb------2)
 - [Effective uses of React.lazy&lpar;&rpar;](https://adetorodev.medium.com/effective-uses-of-react-lazy-7e6fa3bde040?source=rss-ee30520a0aeb------2)
 - [JavaScript Array Method Syntax](https://adetorodev.medium.com/javascript-array-method-syntax-963bc3b31d15?source=rss-ee30520a0aeb------2)
