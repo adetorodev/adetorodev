@@ -11,7 +11,9 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: adetorodev/blog-post-workflow@v3
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in medium.com posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://adetorodev.medium.com/feed"
