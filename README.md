@@ -23,6 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Importance of TDD in React App Development](https://adetorodev.medium.com/importance-of-tdd-in-react-app-development-b310c79a89f8?source=rss-ee30520a0aeb------2)
 - [Benefits of Software Design for Frontend Developer](https://adetorodev.medium.com/benefits-of-software-design-for-frontend-developer-a6d100697289?source=rss-ee30520a0aeb------2)
 - [Optimizing Performance in React Apps: Best Practices and Techniques](https://adetorodev.medium.com/optimizing-performance-in-react-apps-best-practices-and-techniques-4b05eb66dd19?source=rss-ee30520a0aeb------2)
 - [Effective uses of React.lazy&lpar;&rpar;](https://adetorodev.medium.com/effective-uses-of-react-lazy-7e6fa3bde040?source=rss-ee30520a0aeb------2)
