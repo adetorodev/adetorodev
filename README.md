@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adetorodev" alt="adetorodev" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack React TypeScript Dashboard**
+# - 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **Cypress, TypeScript**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
