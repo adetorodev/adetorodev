@@ -10,7 +10,10 @@
 - 👯 I’m looking to collaborate on **Open Source Project**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/adetorodev)
-
+  ## Past Projects
+- [Task App With React TypeScript](https://adetorodev-tasks-app.vercel.app/)
+- [Gymn App with React TypeScript ](https://evogym-iota.vercel.app/))
+- [Dashboard React App](https://admin-dashboard-omega-opal.vercel.app)
 - 📝 I regularly write articles on [Medium](https://medium.com/@adetorodev)
 
 - 💬 Ask me about **React, TypeScript, NodeJs**
