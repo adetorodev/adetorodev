@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **adetoroe787@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/ezekiel-adetoro/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/ade-ezekiel/))
 
 - ⚡ Fun fact **I use tab over spacebar**
 
