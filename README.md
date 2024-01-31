@@ -36,7 +36,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adetoro_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adetoro_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ezekiel-adetoro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezekiel-adetoro/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ade-ezekiel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezekiel-adetoro/" height="30" width="40" /></a>
 <a href="https://hashnode.com/@django-master" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@django-master" height="30" width="40" /></a>
 <a href="https://medium.com/@adetorodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adetorodev" height="30" width="40" /></a>
 </p>
@@ -96,10 +96,6 @@
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ezekieladetoro"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ezekieladetoro" /></a></p><br><br> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adetorodev&show_icons=true&locale=en&layout=compact" alt="adetorodev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adetorodev&show_icons=true&locale=en" alt="adetorodev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adetorodev&" alt="adetorodev" /></p>
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64cc01e60d755ccbebd712dd?variant=dark)](https://roadmap.sh)
 
 
