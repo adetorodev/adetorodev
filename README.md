@@ -93,8 +93,8 @@
 </td></tr></table>
 
 
-<!-- <h3 align="left">Support:</h3>
-<!-- <p><a href="https://www.buymeacoffee.com/ezekieladetoro"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ezekieladetoro" /></a></p><br><br> --> -->
+<<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ezekieladetoro"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ezekieladetoro" /></a></p><br><br>
 
 <!-- [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64cc01e60d755ccbebd712dd?variant=dark&roadmaps=65ba05770c548122836985fa%2Cjavascript%2Creact%2Cnodejs)](https://roadmap.sh) -->
 
